@@ -1,0 +1,465 @@
+------------------
+System Information
+------------------
+Time of this report: 6/24/2017, 11:53:06
+       Machine name: SASHA
+   Operating System: Windows 7 Professional 64-bit (6.1, Build 7601) Service Pack 1 (7601.win7sp1_ldr.170512-0600)
+           Language: English (Regional Setting: English)
+System Manufacturer: MSI
+       System Model: MS-7817
+               BIOS: BIOS Date: 03/30/15 11:20:03 Ver: V1.9B0
+          Processor: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz (4 CPUs), ~3.3GHz
+             Memory: 8192MB RAM
+Available OS Memory: 8136MB RAM
+          Page File: 5286MB used, 10983MB available
+        Windows Dir: C:\Windows
+    DirectX Version: DirectX 11
+DX Setup Parameters: Not found
+   User DPI Setting: Using System DPI
+ System DPI Setting: 96 DPI (100 percent)
+    DWM DPI Scaling: Disabled
+     DxDiag Version: 6.01.7601.17514 32bit Unicode
+  DxDiag Previously: Crashed in DirectShow (stage 1). Re-running DxDiag with "dontskip" command line parameter or choosing not to bypass information gathering when prompted might result in DxDiag successfully obtaining this information
+
+------------
+DxDiag Notes
+------------
+      Display Tab 1: No problems found.
+      Display Tab 2: No problems found.
+        Sound Tab 1: No problems found.
+        Sound Tab 2: No problems found.
+        Sound Tab 3: No problems found.
+          Input Tab: No problems found.
+
+--------------------
+DirectX Debug Levels
+--------------------
+Direct3D:    0/4 (retail)
+DirectDraw:  0/4 (retail)
+DirectInput: 0/5 (retail)
+DirectMusic: 0/5 (retail)
+DirectPlay:  0/9 (retail)
+DirectSound: 0/5 (retail)
+DirectShow:  0/6 (retail)
+
+---------------
+Display Devices
+---------------
+          Card name: AMD Radeon HD 7900 Series
+       Manufacturer: Advanced Micro Devices, Inc.
+          Chip type: AMD Radeon Graphics Processor (0x679A)
+           DAC type: Internal DAC(400MHz)
+         Device Key: Enum\PCI\VEN_1002&DEV_679A&SUBSYS_27611462&REV_00
+     Display Memory: 4095 MB
+   Dedicated Memory: 3050 MB
+      Shared Memory: 1045 MB
+       Current Mode: 1920 x 1080 (32 bit) (59Hz)
+       Monitor Name: Generic PnP Monitor
+      Monitor Model: ASUS VC239
+         Monitor Id: ACI23C4
+        Native Mode: 1920 x 1080(p) (60.000Hz)
+        Output Type: HDMI
+        Driver Name: aticfx64.dll,aticfx64.dll,aticfx64.dll,aticfx32,aticfx32,aticfx32,atiumd64.dll,atidxx64.dll,atidxx64.dll,atiumdag,atidxx32,atidxx32,atiumdva,atiumd6a.cap,atitmm64.dll
+Driver File Version: 21.19.0519.0002 (English)
+     Driver Version: 21.19.519.2
+        DDI Version: 11
+       Driver Model: WDDM 1.1
+  Driver Attributes: Final Retail
+   Driver Date/Size: 2/10/2017 08:23:16, 1567288 bytes
+        WHQL Logo'd: n/a
+    WHQL Date Stamp: n/a
+  Device Identifier: {D7B71EE2-24DA-11CF-D077-6605BCC2D835}
+          Vendor ID: 0x1002
+          Device ID: 0x679A
+          SubSys ID: 0x27611462
+        Revision ID: 0x0000
+ Driver Strong Name: oem41.inf:ATI.Mfg.NTamd64.6.1:ati2mtag_R575:21.19.519.2:pci\ven_1002&dev_679a
+     Rank Of Driver: 00E62001
+        Video Accel: ModeMPEG2_A ModeMPEG2_C 
+   Deinterlace Caps: {6E8329FF-B642-418B-BCF0-BCB6591E255F}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {6E8329FF-B642-418B-BCF0-BCB6591E255F}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {3C5323C1-6FB7-44F5-9081-056BF2EE449D}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,2) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {552C0DAD-CCBC-420B-83C8-74943CF9F1A6}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,2) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {6E8329FF-B642-418B-BCF0-BCB6591E255F}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+       D3D9 Overlay: Not Supported
+            DXVA-HD: Not Supported
+       DDraw Status: Enabled
+         D3D Status: Enabled
+         AGP Status: Enabled
+
+          Card name: AMD Radeon HD 7900 Series
+       Manufacturer: Advanced Micro Devices, Inc.
+          Chip type: AMD Radeon Graphics Processor (0x679A)
+           DAC type: Internal DAC(400MHz)
+         Device Key: Enum\PCI\VEN_1002&DEV_679A&SUBSYS_27611462&REV_00
+     Display Memory: 4095 MB
+   Dedicated Memory: 3050 MB
+      Shared Memory: 1045 MB
+       Current Mode: 1920 x 1080 (32 bit) (59Hz)
+       Monitor Name: Generic PnP Monitor
+      Monitor Model: ASUS VC239
+         Monitor Id: ACI23C4
+        Native Mode: 1920 x 1080(p) (60.000Hz)
+        Output Type: DVI
+        Driver Name: aticfx64.dll,aticfx64.dll,aticfx64.dll,aticfx32,aticfx32,aticfx32,atiumd64.dll,atidxx64.dll,atidxx64.dll,atiumdag,atidxx32,atidxx32,atiumdva,atiumd6a.cap,atitmm64.dll
+Driver File Version: 21.19.0519.0002 (English)
+     Driver Version: 21.19.519.2
+        DDI Version: 11
+       Driver Model: WDDM 1.1
+  Driver Attributes: Final Retail
+   Driver Date/Size: 2/10/2017 08:23:16, 1567288 bytes
+        WHQL Logo'd: n/a
+    WHQL Date Stamp: n/a
+  Device Identifier: {D7B71EE2-24DA-11CF-D077-6605BCC2D835}
+          Vendor ID: 0x1002
+          Device ID: 0x679A
+          SubSys ID: 0x27611462
+        Revision ID: 0x0000
+ Driver Strong Name: oem41.inf:ATI.Mfg.NTamd64.6.1:ati2mtag_R575:21.19.519.2:pci\ven_1002&dev_679a
+     Rank Of Driver: 00E62001
+        Video Accel: ModeMPEG2_A ModeMPEG2_C 
+   Deinterlace Caps: {6E8329FF-B642-418B-BCF0-BCB6591E255F}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {6E8329FF-B642-418B-BCF0-BCB6591E255F}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {3C5323C1-6FB7-44F5-9081-056BF2EE449D}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,2) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {552C0DAD-CCBC-420B-83C8-74943CF9F1A6}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,2) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {6E8329FF-B642-418B-BCF0-BCB6591E255F}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,1) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+       D3D9 Overlay: Not Supported
+            DXVA-HD: Not Supported
+       DDraw Status: Enabled
+         D3D Status: Enabled
+         AGP Status: Enabled
+
+-------------
+Sound Devices
+-------------
+            Description: Speakers (USB PnP Sound Device)
+ Default Sound Playback: Yes
+ Default Voice Playback: Yes
+            Hardware ID: USB\VID_0D8C&PID_013A&REV_0100&MI_00
+        Manufacturer ID: 65535
+             Product ID: 65535
+                   Type: WDM
+            Driver Name: USBAUDIO.sys
+         Driver Version: 6.01.7601.18208 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: n/a
+          Date and Size: 7/12/2013 04:40:58, 109824 bytes
+            Other Files: 
+        Driver Provider: Microsoft
+         HW Accel Level: Basic
+              Cap Flags: 0x0
+    Min/Max Sample Rate: 0, 0
+Static/Strm HW Mix Bufs: 0, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+            Description: 1 - ASUS VC239 (2- AMD High Definition Audio Device)
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: HDAUDIO\FUNC_01&VEN_1002&DEV_AA01&SUBSYS_00AA0100&REV_1003
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: AtihdW76.sys
+         Driver Version: 7.12.0000.7724 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: n/a
+          Date and Size: 12/20/2016 06:41:46, 96256 bytes
+            Other Files: 
+        Driver Provider: Advanced Micro Devices
+         HW Accel Level: Basic
+              Cap Flags: 0x0
+    Min/Max Sample Rate: 0, 0
+Static/Strm HW Mix Bufs: 0, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+            Description: Headset (2- Realtek High Definition Audio)
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0887&SUBSYS_1462D817&REV_1003
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: RTKVHD64.sys
+         Driver Version: 6.00.0001.7534 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: n/a
+          Date and Size: 6/15/2015 06:58:08, 4493528 bytes
+            Other Files: 
+        Driver Provider: Realtek Semiconductor Corp.
+         HW Accel Level: Basic
+              Cap Flags: 0x0
+    Min/Max Sample Rate: 0, 0
+Static/Strm HW Mix Bufs: 0, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+---------------------
+Sound Capture Devices
+---------------------
+            Description: Snowball (Blue Snowball)
+  Default Sound Capture: Yes
+  Default Voice Capture: Yes
+            Driver Name: USBAUDIO.sys
+         Driver Version: 6.01.7601.18208 (English)
+      Driver Attributes: Final Retail
+          Date and Size: 7/12/2013 04:40:58, 109824 bytes
+              Cap Flags: 0x0
+           Format Flags: 0x0
+
+-------------------
+DirectInput Devices
+-------------------
+      Device Name: Mouse
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+      Device Name: Keyboard
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+      Device Name: Blue Snowball
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x0D8C, 0x0005
+        FF Driver: n/a
+
+      Device Name: USB PnP Sound Device
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x0D8C, 0x013A
+        FF Driver: n/a
+
+      Device Name: Razer Naga
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x1532, 0x0040
+        FF Driver: n/a
+
+      Device Name: Razer Naga
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x1532, 0x0040
+        FF Driver: n/a
+
+      Device Name: Razer Naga
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x1532, 0x0040
+        FF Driver: n/a
+
+      Device Name: Razer Naga
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x1532, 0x0040
+        FF Driver: n/a
+
+      Device Name: Corsair K70R Gaming Keyboard
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x1B1C, 0x1B09
+        FF Driver: n/a
+
+Poll w/ Interrupt: No
+
+-----------
+USB Devices
+-----------
++ USB Root Hub
+| Vendor/Product ID: 0x8086, 0x8C26
+| Matching Device ID: usb\root_hub20
+| Service: usbhub
+| 
++-+ Generic USB Hub
+| | Vendor/Product ID: 0x8087, 0x8000
+| | Location: Port_#0001.Hub_#0002
+| | Matching Device ID: usb\class_09
+| | Service: usbhub
+
+----------------
+Gameport Devices
+----------------
+
+------------
+PS/2 Devices
+------------
++ HID Keyboard Device
+| Vendor/Product ID: 0x1532, 0x0040
+| Matching Device ID: hid_device_system_keyboard
+| Service: kbdhid
+| 
++ Razer Naga
+| Vendor/Product ID: 0x1532, 0x0040
+| Matching Device ID: hid\vid_1532&pid_0040&mi_02
+| Upper Filters: rzudd
+| Service: kbdhid
+| 
++ HID Keyboard Device
+| Vendor/Product ID: 0x1B1C, 0x1B09
+| Matching Device ID: hid_device_system_keyboard
+| Service: kbdhid
+| 
++ HID Keyboard Device
+| Vendor/Product ID: 0x1B1C, 0x1B09
+| Matching Device ID: hid_device_system_keyboard
+| Service: kbdhid
+| 
++ Terminal Server Keyboard Driver
+| Matching Device ID: root\rdp_kbd
+| Upper Filters: kbdclass
+| Service: TermDD
+| 
++ Razer Naga
+| Vendor/Product ID: 0x1532, 0x0040
+| Matching Device ID: hid\vid_1532&pid_0040&mi_00
+| Upper Filters: rzudd
+| Service: mouhid
+| 
++ Terminal Server Mouse Driver
+| Matching Device ID: root\rdp_mou
+| Upper Filters: mouclass
+| Service: TermDD
+
+------------------------
+Disk & DVD/CD-ROM Drives
+------------------------
+      Drive: C:
+ Free Space: 165.8 GB
+Total Space: 953.8 GB
+File System: NTFS
+      Model: ST1000DM003-1CH162 ATA Device
+
+      Drive: D:
+      Model: HL-DT-ST BD-RE  WH16NS40 ATA Device
+     Driver: c:\windows\system32\drivers\cdrom.sys, 6.01.7601.17514 (English), , 0 bytes
+
+--------------
+System Devices
+--------------
+     Name: Intel(R) 8 Series/C220 Series SMBus Controller - 8C22
+Device ID: PCI\VEN_8086&DEV_8C22&SUBSYS_78171462&REV_05\3&11583659&0&FB
+   Driver: n/a
+
+     Name: High Definition Audio Controller
+Device ID: PCI\VEN_8086&DEV_8C20&SUBSYS_D8171462&REV_05\3&11583659&0&D8
+   Driver: n/a
+
+     Name: Intel(R) 8 Series/C220 Series PCI Express Root Port #3 - 8C14
+Device ID: PCI\VEN_8086&DEV_8C14&SUBSYS_78171462&REV_D5\3&11583659&0&E2
+   Driver: n/a
+
+     Name: Intel(R) H81 LPC Controller - 8C5C
+Device ID: PCI\VEN_8086&DEV_8C5C&SUBSYS_78171462&REV_05\3&11583659&0&F8
+   Driver: n/a
+
+     Name: Intel(R) 8 Series/C220 Series PCI Express Root Port #1 - 8C10
+Device ID: PCI\VEN_8086&DEV_8C10&SUBSYS_78171462&REV_D5\3&11583659&0&E0
+   Driver: n/a
+
+     Name: Intel(R) Management Engine Interface 
+Device ID: PCI\VEN_8086&DEV_8C3A&SUBSYS_78171462&REV_04\3&11583659&0&B0
+   Driver: n/a
+
+     Name: Standard AHCI 1.0 Serial ATA Controller
+Device ID: PCI\VEN_8086&DEV_8C02&SUBSYS_78171462&REV_05\3&11583659&0&FA
+   Driver: n/a
+
+     Name: High Definition Audio Controller
+Device ID: PCI\VEN_1002&DEV_AAA0&SUBSYS_AAA01462&REV_00\4&1610F4F8&0&0108
+   Driver: n/a
+
+     Name: Intel(R) USB 3.0 eXtensible Host Controller
+Device ID: PCI\VEN_8086&DEV_8C31&SUBSYS_78171462&REV_05\3&11583659&0&A0
+   Driver: n/a
+
+     Name: Intel(R) Xeon(R) processor E3 - 1200 v3/4th Gen Core processor PCI Express x16 Controller - 0C01
+Device ID: PCI\VEN_8086&DEV_0C01&SUBSYS_78171462&REV_06\3&11583659&0&08
+   Driver: n/a
+
+     Name: Realtek PCIe GBE Family Controller #2
+Device ID: PCI\VEN_10EC&DEV_8168&SUBSYS_78171462&REV_0C\4&2BCECA6C&0&00E2
+   Driver: n/a
+
+     Name: Standard Enhanced PCI to USB Host Controller
+Device ID: PCI\VEN_8086&DEV_8C2D&SUBSYS_78171462&REV_05\3&11583659&0&D0
+   Driver: n/a
+
+     Name: PCI standard host CPU bridge
+Device ID: PCI\VEN_8086&DEV_0C00&SUBSYS_78171462&REV_06\3&11583659&0&00
+   Driver: n/a
+
+     Name: AMD Radeon HD 7900 Series
+Device ID: PCI\VEN_1002&DEV_679A&SUBSYS_27611462&REV_00\4&1610F4F8&0&0008
+   Driver: n/a
+
+     Name: Standard Enhanced PCI to USB Host Controller
+Device ID: PCI\VEN_8086&DEV_8C26&SUBSYS_78171462&REV_05\3&11583659&0&E8
+   Driver: n/a
+
+---------------
+EVR Power Information
+---------------
+Current Setting: {5C67A112-A4C9-483F-B4A7-1D473BECAFDC} (Quality) 
+  Quality Flags: 2576
+    Enabled:
+    Force throttling
+    Allow half deinterlace
+    Allow scaling
+    Decode Power Usage: 100
+  Balanced Flags: 1424
+    Enabled:
+    Force throttling
+    Allow batching
+    Force half deinterlace
+    Force scaling
+    Decode Power Usage: 50
+  PowerFlags: 1424
+    Enabled:
+    Force throttling
+    Allow batching
+    Force half deinterlace
+    Force scaling
+    Decode Power Usage: 0
